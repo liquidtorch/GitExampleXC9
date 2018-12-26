@@ -15,7 +15,7 @@ class ViewController: NSViewController {
 
 		// Do any additional setup after loading the view.
 		
-		print("some change")
+		print("some changes made in branch")
 	}
 
 	override var representedObject: Any? {
